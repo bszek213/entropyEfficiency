@@ -1,0 +1,8 @@
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/install/local.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/install.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/helper.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/Entropy.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bszekely/Desktop/ProjectsResearch/Entropy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
